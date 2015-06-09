@@ -1,0 +1,24 @@
+C:\Users\Raúl\Desktop\ReadSerial\ReadSerial\ReadSerial\bin\Debug\ReadSerial.exe
+C:\Users\Raúl\Desktop\ReadSerial\ReadSerial\ReadSerial\bin\Debug\ReadSerial.pdb
+C:\Users\Raúl\Desktop\ReadSerial\ReadSerial\ReadSerial\obj\x86\Debug\ReadSerial.Form1.resources
+C:\Users\Raúl\Desktop\ReadSerial\ReadSerial\ReadSerial\obj\x86\Debug\ReadSerial.Properties.Resources.resources
+C:\Users\Raúl\Desktop\ReadSerial\ReadSerial\ReadSerial\obj\x86\Debug\ReadSerial.csproj.GenerateResource.Cache
+C:\Users\Raúl\Desktop\ReadSerial\ReadSerial\ReadSerial\obj\x86\Debug\ReadSerial.exe
+C:\Users\Raúl\Desktop\ReadSerial\ReadSerial\ReadSerial\obj\x86\Debug\ReadSerial.pdb
+C:\Users\Raúl\Desktop\ReadSerial\ReadSerial\ReadSerial\obj\x86\Debug\ReadSerial.csprojResolveAssemblyReference.cache
+E:\Dropbox\UNED\PROYECTO\PROGRAMAS\Chipkit Uno32\ReadSerial\ReadSerial\ReadSerial\obj\x86\Debug\ReadSerial.exe
+E:\Dropbox\UNED\PROYECTO\PROGRAMAS\Chipkit Uno32\ReadSerial\ReadSerial\ReadSerial\obj\x86\Debug\ReadSerial.pdb
+E:\Dropbox\UNED\PROYECTO\PROGRAMAS\Chipkit Uno32\ReadSerial\ReadSerial\ReadSerial\bin\Debug\ReadSerial.exe
+E:\Dropbox\UNED\PROYECTO\PROGRAMAS\Chipkit Uno32\ReadSerial\ReadSerial\ReadSerial\bin\Debug\ReadSerial.pdb
+E:\Dropbox\UNED\PROYECTO\PROGRAMAS\Chipkit Uno32\ReadSerial\ReadSerial\ReadSerial\obj\x86\Debug\ReadSerial.Form1.resources
+E:\Dropbox\UNED\PROYECTO\PROGRAMAS\Chipkit Uno32\ReadSerial\ReadSerial\ReadSerial\obj\x86\Debug\ReadSerial.Properties.Resources.resources
+E:\Dropbox\UNED\PROYECTO\PROGRAMAS\Chipkit Uno32\ReadSerial\ReadSerial\ReadSerial\obj\x86\Debug\ReadSerial.csproj.GenerateResource.Cache
+D:\RAÚL\Dropbox\UNED\PROYECTO\PROGRAMAS\Chipkit Uno32\ReadSerial\ReadSerial\ReadSerial\obj\x86\Debug\ReadSerial.exe
+D:\RAÚL\Dropbox\UNED\PROYECTO\PROGRAMAS\Chipkit Uno32\ReadSerial\ReadSerial\ReadSerial\obj\x86\Debug\ReadSerial.pdb
+D:\RAÚL\Dropbox\UNED\PROYECTO\PROGRAMAS\Chipkit Uno32\ReadSerial\ReadSerial\ReadSerial\bin\Debug\ReadSerial.exe
+D:\RAÚL\Dropbox\UNED\PROYECTO\PROGRAMAS\Chipkit Uno32\ReadSerial\ReadSerial\ReadSerial\bin\Debug\ReadSerial.pdb
+D:\RAÚL\Dropbox\UNED\PROYECTO\PROGRAMAS\Chipkit Uno32\ReadSerial\ReadSerial\ReadSerial\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\RAÚL\Dropbox\UNED\PROYECTO\PROGRAMAS\Chipkit Uno32\ReadSerial\ReadSerial\ReadSerial\obj\x86\Debug\ReadSerial.Form1.resources
+D:\RAÚL\Dropbox\UNED\PROYECTO\PROGRAMAS\Chipkit Uno32\ReadSerial\ReadSerial\ReadSerial\obj\x86\Debug\ReadSerial.Properties.Resources.resources
+D:\RAÚL\Dropbox\UNED\PROYECTO\PROGRAMAS\Chipkit Uno32\ReadSerial\ReadSerial\ReadSerial\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\RAÚL\Dropbox\UNED\PROYECTO\PROGRAMAS\Chipkit Uno32\ReadSerial\ReadSerial\ReadSerial\obj\x86\Debug\GenerateResource.write.1.tlog

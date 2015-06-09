@@ -1,0 +1,7 @@
+Estrellas Generadas:   1167
+Estrellas Localizadas: 1070
+Error Medio X: 2.598057e+001
+Error Medio Y: 1.594060e+001
+Error Medio Z: 1.891790e+001
+Error Medio TOTAL: 2.027969e+001
+TOTAL Imágenes OK: 95
